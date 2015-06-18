@@ -11,38 +11,38 @@ The six activities each person performed during the experiment.
 &nbsp;&nbsp;- the string _Jerk_ is for the jerk signals obtained by the body linear acceleration and angular velocity <br />
 &nbsp;&nbsp;- _Mag_ indicates the magnitude of the three-dimensional signals <br />
 &nbsp;&nbsp;- finally _mean_ and _std_ denote the mean value and the standard deviation of the signals <br />
-&nbsp;All these variables are of type numeric and are listed below:
-&nbsp;&nbsp;"tBodyAcc_mean_X" "tBodyAcc_mean_Y" "tBodyAcc_mean_Z" <br />
-&nbsp;&nbsp;"tGravityAcc_mean_X" "tGravityAcc_mean_Y" "tGravityAcc_mean_Z" <br />
-&nbsp;&nbsp;"tBodyAccJerk_mean_X" "tBodyAccJerk_mean_Y" "tBodyAccJerk_mean_Z" <br />
-&nbsp;&nbsp;"tBodyGyro_mean_X" "tBodyGyro_mean_Y" "tBodyGyro_mean_Z" <br />
-&nbsp;&nbsp;"tBodyGyroJerk_mean_X" "tBodyGyroJerk_mean_Y" "tBodyGyroJerk_mean_Z" <br />
-&nbsp;&nbsp;"tBodyAccMag_mean" <br />
-&nbsp;&nbsp;"tGravityAccMag_mean" <br />
-&nbsp;&nbsp;"tBodyAccJerkMag_mean" <br />
-&nbsp;&nbsp;"tBodyGyroMag_mean" <br />
-&nbsp;&nbsp;"tBodyGyroJerkMag_mean" <br />
-&nbsp;&nbsp;"fBodyAcc_mean_X" "fBodyAcc_mean_Y" "fBodyAcc_mean_Z" <br />
-&nbsp;&nbsp;"fBodyAccJerk_mean_X" "fBodyAccJerk_mean_Y" "fBodyAccJerk_mean_Z" <br />
-&nbsp;&nbsp;"fBodyGyro_mean_X" "fBodyGyro_mean_Y" "fBodyGyro_mean_Z" <br />
-&nbsp;&nbsp;"fBodyAccMag_mean" <br />
-&nbsp;&nbsp;"fBodyAccJerkMag_mean" <br />
-&nbsp;&nbsp;"fBodyGyroMag_mean" <br />
-&nbsp;&nbsp;"fBodyGyroJerkMag_mean" <br />
-&nbsp;&nbsp;"tBodyAcc_std_X" "tBodyAcc_std_Y" "tBodyAcc_std_Z" <br />
-&nbsp;&nbsp;"tGravityAcc_std_X" "tGravityAcc_std_Y" "tGravityAcc_std_Z" <br />
-&nbsp;&nbsp;"tBodyAccJerk_std_X" "tBodyAccJerk_std_Y" "tBodyAccJerk_std_Z" <br />
-&nbsp;&nbsp;"tBodyGyro_std_X" "tBodyGyro_std_Y" "tBodyGyro_std_Z" <br />
-&nbsp;&nbsp;"tBodyGyroJerk_std_X" "tBodyGyroJerk_std_Y" "tBodyGyroJerk_std_Z" <br />
-&nbsp;&nbsp;"tBodyAccMag_std" <br />
-&nbsp;&nbsp;"tGravityAccMag_std" <br />
-&nbsp;&nbsp;"tBodyAccJerkMag_std" <br />
-&nbsp;&nbsp;"tBodyGyroMag_std" <br />
-&nbsp;&nbsp;"tBodyGyroJerkMag_std" <br />
-&nbsp;&nbsp;"fBodyAcc_std_X" "fBodyAcc_std_Y" "fBodyAcc_std_Z" <br />
-&nbsp;&nbsp;"fBodyAccJerk_std_X" "fBodyAccJerk_std_Y" "fBodyAccJerk_std_Z" <br />
-&nbsp;&nbsp;"fBodyGyro_std_X" "fBodyGyro_std_Y" "fBodyGyro_std_Z" <br />
-&nbsp;&nbsp;"fBodyAccMag_std" <br />
-&nbsp;&nbsp;"fBodyAccJerkMag_std" <br />
-&nbsp;&nbsp;"fBodyGyroMag_std" <br />
-&nbsp;&nbsp;"fBodyGyroJerkMag_std" <br />
+&nbsp;All these variables are of type numeric and are listed below: <br />
+&nbsp;&nbsp;tBodyAcc_mean_X tBodyAcc_mean_Y tBodyAcc_mean_Z <br />
+&nbsp;&nbsp;tGravityAcc_mean_X tGravityAcc_mean_Y tGravityAcc_mean_Z <br />
+&nbsp;&nbsp;tBodyAccJerk_mean_X tBodyAccJerk_mean_Y tBodyAccJerk_mean_Z <br />
+&nbsp;&nbsp;tBodyGyro_mean_X tBodyGyro_mean_Y tBodyGyro_mean_Z <br />
+&nbsp;&nbsp;tBodyGyroJerk_mean_X tBodyGyroJerk_mean_Y tBodyGyroJerk_mean_Z <br />
+&nbsp;&nbsp;tBodyAccMag_mean <br />
+&nbsp;&nbsp;tGravityAccMag_mean <br />
+&nbsp;&nbsp;tBodyAccJerkMag_mean <br />
+&nbsp;&nbsp;tBodyGyroMag_mean <br />
+&nbsp;&nbsp;tBodyGyroJerkMag_mean <br />
+&nbsp;&nbsp;fBodyAcc_mean_X fBodyAcc_mean_Y fBodyAcc_mean_Z <br />
+&nbsp;&nbsp;fBodyAccJerk_mean_X fBodyAccJerk_mean_Y fBodyAccJerk_mean_Z <br />
+&nbsp;&nbsp;fBodyGyro_mean_X fBodyGyro_mean_Y fBodyGyro_mean_Z <br />
+&nbsp;&nbsp;fBodyAccMag_mean <br />
+&nbsp;&nbsp;fBodyAccJerkMag_mean <br />
+&nbsp;&nbsp;fBodyGyroMag_mean <br />
+&nbsp;&nbsp;fBodyGyroJerkMag_mean <br />
+&nbsp;&nbsp;tBodyAcc_std_X tBodyAcc_std_Y tBodyAcc_std_Z <br />
+&nbsp;&nbsp;tGravityAcc_std_X tGravityAcc_std_Y tGravityAcc_std_Z <br />
+&nbsp;&nbsp;tBodyAccJerk_std_X tBodyAccJerk_std_Y tBodyAccJerk_std_Z <br />
+&nbsp;&nbsp;tBodyGyro_std_X tBodyGyro_std_Y tBodyGyro_std_Z <br />
+&nbsp;&nbsp;tBodyGyroJerk_std_X tBodyGyroJerk_std_Y tBodyGyroJerk_std_Z <br />
+&nbsp;&nbsp;tBodyAccMag_std <br />
+&nbsp;&nbsp;tGravityAccMag_std <br />
+&nbsp;&nbsp;tBodyAccJerkMag_std <br />
+&nbsp;&nbsp;tBodyGyroMag_std <br />
+&nbsp;&nbsp;tBodyGyroJerkMag_std <br />
+&nbsp;&nbsp;fBodyAcc_std_X fBodyAcc_std_Y fBodyAcc_std_Z <br />
+&nbsp;&nbsp;fBodyAccJerk_std_X fBodyAccJerk_std_Y fBodyAccJerk_std_Z <br />
+&nbsp;&nbsp;fBodyGyro_std_X fBodyGyro_std_Y fBodyGyro_std_Z <br />
+&nbsp;&nbsp;fBodyAccMag_std <br />
+&nbsp;&nbsp;fBodyAccJerkMag_std <br />
+&nbsp;&nbsp;fBodyGyroMag_std <br />
+&nbsp;&nbsp;fBodyGyroJerkMag_std <br />
