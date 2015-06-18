@@ -12,7 +12,7 @@ The six activities each person performed during the experiment.
 &nbsp;&nbsp;- _Mag_ indicates the magnitude of the three-dimensional signals <br />
 &nbsp;&nbsp;- finally _mean_ and _std_ denote the mean value and the standard deviation of the signals <br />
 &nbsp;All these variables are of type numeric and are listed below: <br />
-&nbsp;&nbsp;tBodyAcc_mean_X   tBodyAcc_mean_Y   tBodyAcc_mean_Z <br />
+&nbsp;&nbsp;tBodyAcc_mean_X __  tBodyAcc_mean_Y __  tBodyAcc_mean_Z <br />
 &nbsp;&nbsp;tGravityAcc_mean_X   tGravityAcc_mean_Y   tGravityAcc_mean_Z <br />
 &nbsp;&nbsp;tBodyAccJerk_mean_X   tBodyAccJerk_mean_Y   tBodyAccJerk_mean_Z <br />
 &nbsp;&nbsp;tBodyGyro_mean_X   tBodyGyro_mean_Y   tBodyGyro_mean_Z <br />
