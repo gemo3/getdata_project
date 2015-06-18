@@ -2,7 +2,7 @@
 This project is about collecting, working with, and cleaning a data set.
 The data set consists of measurements of the accelerometer and the gyroscope of the smartphone, Samsung Galaxy S II, that 30 people were wearing on their waist. The dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 Here are the data for the project:  
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip <br /> 
 The R script called run_analysis.R, that is in this repo, does the following:
 * opens some txt files that contain the data, the variables, the activities and the subjects
 * merges the training set, the training activities and the training subjects, _mergedtrain_ 
